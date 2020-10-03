@@ -4,26 +4,26 @@
 Very Very Fast Proxy Scraper and Checker using the Blazing Fast Soteria REST Proxy API 
 
 ### Features
-* Scrape and Check HTTP, HTTPS, Socks4, Socks5 Proxies
-* Plain Text File Output
-* Very Fast Multi-Threaded Scraping and Checking
-* Speeds of Aprox. 1 Proxy Per 0.3 Seconds
+* Scrape and Check HTTP, HTTPS, Socks4, Socks5 Proxies at blazing speeds!
+* Plain Text and JSON File Output!
+* Simultaneous Very Fast Multi-Threaded Scraping and Checking!
+* Speeds of Aprox. 1 Proxy/.23 Secs.
 
 ### Usage
 ```bash
-python3 index.py <Threads> <Thread-Limit> <Debug:0|1>
+COMING SOON!
 ```
 
 ### Example
 ```bash
-python3 index.py 10 2 0
+COMING SOON!
 ```
 
 License
 ----
 ```license
-MIT License
-Copyright (c) 2020 John Bell
+COMING SOON!
 ```
 
 [@0x06060606](https://twitter.com/0x06060606 "My Twitter")
+
