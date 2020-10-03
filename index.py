@@ -202,7 +202,7 @@ if __name__ == "__main__":
  \___ \ / _ \| __/ _ \ '__| |/ _` |
   ___) | (_) | ||  __/ |  | | (_| |
  |____/ \___/ \__\___|_|  |_|\__,_|""")
-        print("\r\n ")
+        print("\n\r [2.0] \r\n ")
         with open("time.dat", "r") as f:
             timeSinceLastRun=(int(tom())-int(float(f.read())))
             debug(timeSinceLastRun)
